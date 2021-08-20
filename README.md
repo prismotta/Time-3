@@ -5,32 +5,17 @@
 
 Este dashboard foi desenvolvido por um grupo de estudantes durante a participação do Prêmio de Dados Abertos para o Desenvolvimento do BNDES.
 
-### Layout web
-
-
-### Modelo conceitual
+### Layout 
 
 
 ## Tecnologias utilizadas
-### Back end
--
-### Front end
+- Google Colaboratory
 - Python
 - Power BI
-
-### Implantação em produção
-- Back end: 
-- Front end web: 
-- Banco de dados: 
 
 ### Como executar o projeto
 Bases de dados utilizadas no projeto estão disponíveis no link:
 
-### Back end
-Pré-requisitos: 
-
-### Front end web
-Pré-requisitos: 
 
 # Autores
 
