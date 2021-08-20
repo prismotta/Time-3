@@ -1,9 +1,10 @@
 # Time-3
 ## Maratona-BNDES
 [![GitHub](https://img.shields.io/github/license/prismotta/Time-3)](https://github.com/prismotta/Maratona-BNDES/blob/main/LICENSE)
-## Sobre o projeto
 
-Este dashboard foi desenvolvido por um grupo de estudantes durante a participação do Prêmio de Dados Abertos para o Desenvolvimento do BNDES.
+## Sobre o projeto
+Trata-se de uma análise mesclando bases de dados sobre os desembolsos do BNDES e o PIB dos municípios do Triângulo Mineiro e Alto Paranaíba, com o objetivo de testar a hipótese: o desembolso do BNDES em uma região interfe no seu PIB? 
+Este dashboard foi desenvolvido por graduandos do curso de Engenharia de Computação da Universidade do Estado de Minas Gerais que participam do grupo de estudos de Ciência de Dados durante a participação do Prêmio de Dados Abertos para o Desenvolvimento do BNDES.
 
 ### Layout 
 
@@ -11,7 +12,7 @@ Este dashboard foi desenvolvido por um grupo de estudantes durante a participaç
 ## Tecnologias utilizadas
 - Google Colaboratory
 - Python
-- Power BI
+- Power BI (versão de teste)
 
 ### Como executar o projeto
 Bases de dados utilizadas no projeto estão disponíveis no link:
