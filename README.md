@@ -21,7 +21,7 @@ Os tratamentos, filtragens e análises dos dados foram feitos no seguinte notebo
 Para executar o notebook é necessário acessar e baixar as bases de dados utilizadas no desenvolvimento do projeto que estão disponíveis no link: https://drive.google.com/drive/folders/1RPHP9KTpjVEmN-KvaS_QffzF_PJaSho9?usp=sharing
 
 ## Vídeo Pitch explicando o projeto
-Disponível no link: https://www.youtube.com/watch?v=qb2MxDfBbEc&ab_channel=MichelResende
+Disponível no link: https://youtu.be/s2p6VdaFEb8
 
 ## Autores
 
