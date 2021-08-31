@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 Este dashboard foi desenvolvido durante a participação do Prêmio de Dados Abertos para o Desenvolvimento do BNDES, por um professor doutor em Engenharia Mecânica e quatro graduandos do curso de Engenharia de Computação na Universidade do Estado de Minas Gerais onde todos são membros do grupo de estudos de Ciência de Dados. <br />
-Trata-se de uma análise mesclando bases de dados sobre os desembolsos do BNDES e o PIB dos municípios do Triângulo Mineiro e Alto Paranaíba, com o objetivo de testar a hipótese: o desembolso do BNDES em uma região interfe no seu PIB? 
+Trata-se de uma análise mesclando bases de dados sobre os desembolsos do BNDES e o PIB dos municípios do Triângulo Mineiro e Alto Paranaíba, com o objetivo de testar a hipótese: o desembolso do BNDES em uma região interfere no seu PIB? 
 
 ## Layout do Dashboard
 
@@ -17,7 +17,7 @@ Trata-se de uma análise mesclando bases de dados sobre os desembolsos do BNDES 
 - Power BI (versão de teste)
 
 ## Como executar o projeto
-Os tratamentos, filtragens e análises dos dados foram feitos no seguinte notebook: https://colab.research.google.com/drive/1UrhtA8BOnFI2YS2I_4NnLjF8BoJI_T27?usp=sharing <br />
+Os tratamentos, padronização e análises dos dados foram feitos no seguinte notebook: https://colab.research.google.com/drive/1UrhtA8BOnFI2YS2I_4NnLjF8BoJI_T27?usp=sharing <br />
 Para executar o notebook é necessário acessar e baixar as bases de dados utilizadas no desenvolvimento do projeto que estão disponíveis no link: https://drive.google.com/drive/folders/1RPHP9KTpjVEmN-KvaS_QffzF_PJaSho9?usp=sharing
 
 ## Vídeo Pitch explicando o projeto
